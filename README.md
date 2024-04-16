@@ -3,7 +3,7 @@ Script for optimizing Datadog spending.
 
 ## Rationale
 
-A lot of mstrics collected from nodes by the Metric Ingestor are not used and generate costs.
+A lot of metrics collected from nodes by the Metric Ingestor are not used and generate costs.
 
 The ones that are not used can be queried with:
 https://ap1.datadoghq.com/metric/summary?facet.configuration=-configured_tags&facet.query_activity=-queried&filter=dyd 
