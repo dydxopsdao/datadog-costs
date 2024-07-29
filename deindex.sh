@@ -1,5 +1,7 @@
+#!/bin/bash
+
 # See: https://ap1.datadoghq.com/metric/summary?facet.configuration=-configured_tags&facet.query_activity=-queried&filter=dydxprotocol
-export CSV_FILE="extract-1713265424899-metrics.csv"
+export CSV_FILE="deindexed-metrics-ENTER-YOUR-DATE.csv"
 
 # Note the "ap1", not "api" prefix in the URL. This is the Asia-Pacific region.
 export API_HOST="https://ap1.datadoghq.com"

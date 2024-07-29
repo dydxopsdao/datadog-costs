@@ -1,0 +1,16 @@
+Metric Name,Last Configured
+dydxprotocol.side_car_api_http_status_code.count,-
+dydxprotocol.side_car_api_response_internal_status.count,-
+dydxprotocol.side_car_api_response_latency.bucket,-
+dydxprotocol.side_car_api_response_latency.count,-
+dydxprotocol.side_car_api_response_latency.sum,-
+dydxprotocol.side_car_health_check_market_providers,-
+dydxprotocol.side_car_health_check_system_updates.count,-
+dydxprotocol.side_car_health_check_ticker_updates.count,-
+dydxprotocol.side_car_provider_last_updated_id,-
+dydxprotocol.side_car_web_socket_connection_status.count,-
+dydxprotocol.side_car_web_socket_data_handler_status.count,-
+dydxprotocol.side_car_web_socket_response_time.bucket,-
+dydxprotocol.side_car_web_socket_response_time.count,-
+dydxprotocol.side_car_web_socket_response_time.sum,-
+dydxprotocol.side_car_health_check_provider_updates.count,-
